@@ -1,0 +1,9 @@
+*{padding:0;margin:0;}
+body {text-align:center;}
+#container{width:980px;margin:20px auto;text-align:left;}
+#fileQueue {width: 400px;height: 300px;overflow: auto;border: 2px solid #999;margin:5px;float:left;}
+.btn-group{width:200px;float:left;}
+.btn{text-decoration:none;width:110px;height:30px;display:block;background:#515151;margin:10px 0;text-align:center;font:14px/2em 'Î¢ÈíÑÅºÚ';color:#fff;}
+.btn:hover{background:#333;font-weight:bold;}
+
+.info{border:2px solid #999;width:400px;min-height:30px;float:left;}

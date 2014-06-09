@@ -1,0 +1,49 @@
+input.error {
+	background:#FFFFEE url('images/validatebox_warning.png') no-repeat right 1px;
+}
+/**/
+/*label.error {*/
+/*	color: red;*/
+/*	display: none;*/
+/*}*/
+
+/*div.error {*/
+/*	z-index: auto;*/
+/*	display: none;*/
+/*	position: absolute;*/
+/*	background: #9BD1FA;*/
+/*	opacity: 0.9;*/
+/*	filter: alpha(opacity = 50);*/
+/*	overflow: hidden;*/
+/*}*/
+.error-input {
+	background:#FFFFEE url('images/validatebox_warning.png') no-repeat right 1px;
+}
+.error-tip{
+	position:absolute;
+	width:200px;
+	height:auto;
+	display:none;
+	z-index:9900000;
+}
+.error-tip-content{
+	display:inline-block;
+	position:absolute;
+	top:0px;
+	left:10px;
+	padding:3px 5px;
+	border:1px solid #CC9933;
+	background:#FFFFCC;
+	z-index:9900001;
+	font-size:12px;
+}
+.error-tip-pointer{
+	background:url('images/validatebox_pointer.gif') no-repeat left top;
+	display:inline-block;
+	width:10px;
+	height:19px;
+	position:absolute;
+	left:1px;
+	top:0px;
+	z-index:9900002;
+}

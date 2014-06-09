@@ -1,0 +1,52 @@
+.loginpage-bg{
+	background:url('../image/login-bg.jpg') no-repeat center;
+	/*background-color: #fafafa;*/
+	opacity:0.8;
+	filter:alpha(opacity=80);
+	padding:0px;
+	margin: 0px;
+	width: 100%;
+	height:100%;
+	overflow: hidden;
+}
+.homepage-bg{
+	background:url('../image/homePage-bg.jpg') no-repeat center;
+	overflow:hidden;
+	padding:0px;
+	/*
+	background-color: #fafafa;
+	opacity:0.8;
+	filter:alpha(opacity=80);
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../image/homePage-bg.jpg', sizingMethod='scale');
+	*/
+}
+
+.homepage-user-info{
+	background:#ffedec;
+	opacity:0.8;
+	filter:alpha(opacity=80);
+}
+.homepage-user-info td{
+	font-size:12px;
+	color:#bb000b;
+	font-weight:bold;
+}
+.homepage-banner{
+	background:#ffedec;
+	opacity:0.8;
+	filter:alpha(opacity=80);
+}
+.homepage-banner-bt a{
+	font-size:12px;
+	color:#bb000b;
+	font-weight:bold;
+}
+.homepage-menu{
+	background-color:#ffedec;
+	overflow:no;
+	font-size:12px;
+	color:#bb000b;
+	font-weight:bold;
+	opacity:0.8;
+	filter:alpha(opacity=80);
+}

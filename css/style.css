@@ -1,0 +1,91 @@
+a{border:none;}
+a:visited{TEXT-DECORATION:none;color:black} 
+a:link{text-decoration:none;color:black} 
+a:hover{TEXT-DECORATION:none;color:black} 
+.icon-upload{
+	background:url('../image/upload.png') no-repeat;
+}
+.loginpage-tab{
+	border:0px;
+}
+.loginpage-userName-icon{
+	background:url('../image/user_icon.png') no-repeat top left;
+}
+.loginpage-pwd-icon{
+	background:url('../image/password_icon.png') no-repeat top left;
+}
+.
+.portlet-calendar-icon{
+	background:url('../image/calendar.png') no-repeat top left;
+}
+.portlet-clock-icon{
+	background:url('../image/clock.png') no-repeat top left;
+}
+.portlet-weather-icon{
+	background:url('../image/weather.png') no-repeat top left;
+}
+.portlet-task-icon{
+	background:url('../image/task.png') no-repeat top left;
+}
+.portlet-message-icon{
+	background:url('../image/message.png') no-repeat top left;
+}
+.homepage-user-welcome{
+	background:url('../image/welcome.gif') no-repeat top left;
+}
+.homepage-banner-bt-home{
+	background:url('../image/homePage.png') no-repeat top left;
+}
+.homepage-banner-bt-help{
+	background:url('../image/help.png') no-repeat top left;
+}
+.homepage-banner-bt-password{
+	background:url('../image/setPassword.gif') no-repeat top left;
+}
+.homepage-banner-bt-logout{
+	background:url('../image/logout.png') no-repeat top left;
+}
+.homepage-menu-header{
+	background:url('../image/menu.png') no-repeat top left;
+}
+<!-- change style button-->
+
+.blue-style{ }
+.blue-style a{ width:10px; height:9px; margin-right:10px; float:left; }
+.blue-style .a1{ background:url(../image/hua.gif) no-repeat;float:left;margin-left:55px;display:inline;	margin-top:8px;}
+.blue-style .a2{ background:url(../image/lv.gif) no-repeat;margin-top:8px;}
+.blue-style .a3{  background:url(../image/lan2.gif) no-repeat;margin-top:8px;}
+.blue-style .a4{  background:url(../image/hui.gif) no-repeat;margin-top:8px;}
+.blue-style .a5{  background:url(../image/fen.gif) no-repeat;margin-top:8px;}
+
+.gray-style{ }
+.gray-style a{ width:10px; height:9px; margin-right:10px; float:left; }
+.gray-style .a1{ background:url(../image/hua.gif) no-repeat;float:left;margin-left:55px;display:inline;	margin-top:8px;}
+.gray-style .a2{ background:url(../image/lv.gif) no-repeat;margin-top:8px;}
+.gray-style .a3{  background:url(../image/lan.gif) no-repeat;margin-top:8px;}
+.gray-style .a4{  background:url(../image/hui2.gif) no-repeat;margin-top:8px;}
+.gray-style .a5{  background:url(../image/fen.gif) no-repeat;margin-top:8px;}
+
+.green-style{ }
+.green-style a{ width:10px; height:9px; margin-right:10px; float:left; }
+.green-style .a1{ background:url(../image/hua.gif) no-repeat;float:left;margin-left:55px;display:inline;	margin-top:8px;}
+.green-style .a2{ background:url(../image/lv2.gif) no-repeat;margin-top:8px;}
+.green-style .a3{  background:url(../image/lan.gif) no-repeat;margin-top:8px;}
+.green-style .a4{  background:url(../image/hui.gif) no-repeat;margin-top:8px;}
+.green-style .a5{  background:url(../image/fen.gif) no-repeat;margin-top:8px;}
+
+.orange-style{ }
+.orange-style a{ width:10px; height:9px; margin-right:10px; float:left; }
+.orange-style .a1{ background:url(../image/hua2.gif) no-repeat;float:left;margin-left:55px;display:inline;	margin-top:8px;}
+.orange-style .a2{ background:url(../image/lv.gif) no-repeat;margin-top:8px;}
+.orange-style .a3{  background:url(../image/lan.gif) no-repeat;margin-top:8px;}
+.orange-style .a4{  background:url(../image/hui.gif) no-repeat;margin-top:8px;}
+.orange-style .a5{  background:url(../image/fen.gif) no-repeat;margin-top:8px;}
+
+.pink-style{ }
+.pink-style a{ width:10px; height:9px; margin-right:10px; float:left; }
+.pink-style .a1{ background:url(../image/hua.gif) no-repeat;float:left;margin-left:55px;display:inline;	margin-top:8px;}
+.pink-style .a2{ background:url(../image/lv.gif) no-repeat;margin-top:8px;}
+.pink-style .a3{  background:url(../image/lan.gif) no-repeat;margin-top:8px;}
+.pink-style .a4{  background:url(../image/hui.gif) no-repeat;margin-top:8px;}
+.pink-style .a5{  background:url(../image/fen2.gif) no-repeat;margin-top:8px;}
