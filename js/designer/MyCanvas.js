@@ -1,5 +1,5 @@
 draw2d.MyCanvas=function(id){
-		draw2d.Workflow.call(this,id);
+		draw2d.Canvas.call(this,id);
 		this.html.style.backgroundImage="";//remove default backgourd
 		this.html.className="MyCanvas";
 		this.disabled=false;
@@ -9,7 +9,7 @@ draw2d.MyCanvas=function(id){
 		this.process=new draw2d.Process();
 		//this.listeners=new draw2d.ArrayList();
 };
-draw2d.MyCanvas.prototype = new draw2d.Workflow();
+draw2d.MyCanvas.prototype = new draw2d.Canvas();
 draw2d.MyCanvas.prototype.type = "MyCanvas";
 /*
 draw2d.MyCanvas.prototype.showConnectionLine=function(x1, y1, x2, y2){

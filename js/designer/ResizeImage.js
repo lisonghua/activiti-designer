@@ -1,11 +1,11 @@
 draw2d.ResizeImage = function(_url) {
 	this.url = _url;
 	this.img = null;
-	draw2d.Node.call(this);
+	draw2d.shape.node.call(this);
 	this.setDimension(100, 100);
 	this.setColor(null);
 };
-draw2d.ResizeImage.prototype = new draw2d.Node;
+draw2d.ResizeImage.prototype = new draw2d.shape.node;
 draw2d.ResizeImage.prototype.type = "ResizeImage";
 draw2d.ResizeImage.prototype.createHTMLElement = function() {
 	var item = draw2d.Node.prototype.createHTMLElement.call(this);
